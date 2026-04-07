@@ -28,7 +28,7 @@ nav {
     color: #4f46e5;
 }
 
-nav u1 {
+nav ul {
     display: flex;
     list-style: none;
     gap: 30px;
@@ -38,7 +38,7 @@ nav a {
     text-decoration: none;
     color: #444;
     font-weight: 500;
-    treansition: 0.3s;
+    transition: 0.3s;
 }
 
 nav a:hover {
@@ -116,7 +116,7 @@ nav a:hover {
 
 .features h2 {
     font-size: 32px;
-    margin-battom: 50px;
+    margin-bottom: 50px;
 }
 
 .cards {
@@ -159,12 +159,12 @@ nav a:hover {
 
 /*AULA05*/
 .cta button {
-    background: wheat;
+    background: white;
     color: #4f46e5;
     border: none;
     padding: 15px 25px;
     border-radius: 10px;
-    font-size: 16p;
+    font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
 }
